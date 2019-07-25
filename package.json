@@ -7,14 +7,25 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@babel/runtime": "^7.0.0",
+    "axios": "^0.19.0",
     "core-js": "^2.6.5",
+    "mint-ui": "^2.2.13",
+    "swiper": "^4.5.0",
+    "vant": "^2.0.9",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
+    "@babel/plugin-transform-runtime": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
     "@vue/cli-plugin-babel": "^3.9.0",
     "@vue/cli-service": "^3.9.0",
+    "babel-loader": "^8.0.2",
+    "babel-plugin-component": "^1.1.1",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.6.10"

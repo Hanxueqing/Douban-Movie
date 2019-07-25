@@ -1,29 +1,28 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
+    <AppHeader></AppHeader>
+    <keep-alive include = "home">
+      <router-view></router-view>
+    </keep-alive>
   </div>
 </template>
 
-<style lang="scss">
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-#nav {
-  padding: 30px;
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-    &.router-link-exact-active {
-      color: #42b983;
+<script>
+import AppHeader from "@/components/Header"
+  export default{
+    components:{
+      AppHeader
+    },
+    created(){
+      //让页面走一下首页，触发Header中的router.beforeEach函数，不然头部会重复出现
+      this.$router.push("/")
+      //初始化购物车
+      this.$store.dispatch("initCar")
     }
   }
-}
+</script>
+
+<style lang="scss">
+
+
 </style>

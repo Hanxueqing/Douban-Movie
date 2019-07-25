@@ -1,0 +1,53 @@
+{
+    "dealList":[
+        {
+            "firstTitle": "单人",
+            "title":"46oz原味爆米花1桶+22oz可乐1杯",
+            "price": 33,
+            "dealId": 100154273,
+            "imageUrl":"https://p0.meituan.net/movie/5c30ed6dc1e3b99345c18454f69c4582176824.jpg@388w_388h_1e_1c",
+            "curNumberDesc": "已售379"
+        },
+        {
+            "firstTitle": "单人",
+            "title": "46oz原味爆米花1桶+22oz雪碧1杯",
+            "price": 33,
+            "dealId": 100223426,
+            "imageUrl": "https://p0.meituan.net/movie/5c30ed6dc1e3b99345c18454f69c4582176824.jpg@388w_388h_1e_1c",
+            "curNumberDesc": "已售12"
+        },
+        {
+            "firstTitle": "单人",
+            "title": "进口食品1份",
+            "price": 8.89,
+            "dealId": 100212615,
+            "imageUrl": "https://p1.meituan.net/movie/21f1d203838577db9ef915b980867acc203978.jpg@750w_750h_1e_1c",
+            "curNumberDesc": "已售8"
+        },
+        {
+            "firstTitle": "双人",
+            "title": "85oz原味爆米花1桶+22oz可乐两杯",
+            "price": 44,
+            "dealId": 100152611,
+            "imageUrl": "https://p0.meituan.net/movie/bf014964c24ca2ef107133eaed75a6e5191344.jpg@388w_388h_1e_1c",
+            "curNumberDesc": "已售647"
+        },
+        {
+            "firstTitle": "双人",
+            "title": "85oz原味爆米花1桶+22oz雪碧两杯",
+            "price": 44,
+            "dealId": 100223425,
+            "imageUrl": "https://p0.meituan.net/movie/bf014964c24ca2ef107133eaed75a6e5191344.jpg@388w_388h_1e_1c",
+            "curNumberDesc": "已售6"
+        },
+        {
+            "firstTitle": "多人",
+            "title": "85oz原味爆米花1桶+22oz可乐2杯+冰川时代水1瓶",
+            "price": 55,
+            "dealId": 100152612,
+            "imageUrl": "https://p1.meituan.net/movie/c89df7bf2b1b02cbb326b06ecbbf1ddf203619.jpg@388w_388h_1e_1c",
+            "curNumberDesc": "已售89"
+        }
+        
+    ]
+}

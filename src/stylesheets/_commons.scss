@@ -1,0 +1,17 @@
+button{
+    @include border-radius;
+}
+
+.pt60{
+    padding-top:50px;
+}
+
+.loading{
+    background:url(../assets/index.svg) no-repeat center;
+    background-size:10%;
+    height:2.4rem
+}
+body{
+    font-family: Microsoft YaHei,Tahoma,Helvetica,Arial,sans-serif;
+    color: #2c3e50;
+}

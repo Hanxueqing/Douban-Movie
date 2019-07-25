@@ -1,0 +1,28 @@
+{
+    "Banners":[
+        { "id": 1, "src": "https://static.maizuo.com/v5/upload/17330a7f4602b83174896e0d3940a753.jpg?x-oss-process=image/quality,Q_70"},
+        { "id": 2, "src":"https://static.maizuo.com/v5/upload/7b4f508e093892475b184bc8774a8589.jpg?x-oss-process=image/quality,Q_70"},
+        { "id": 3, "src": "https://static.maizuo.com/v5/upload/4950f737d1329d022ec3697339e14193.jpg?x-oss-process=image/quality,Q_70" },
+        {
+            "id": 4,
+            "src": "https://static.maizuo.com/v5/upload/380df84504794c64258e151e29e075ba.jpg?x-oss-process=image/quality,Q_70"
+        },
+        {
+            "id": 5,
+            "src": "https://static.maizuo.com/v5/upload/b6e287b84806d6f8ce8852eed9c9bc52.jpg?x-oss-process=image/quality,Q_70"
+        },
+        {
+            "id": 6,
+            "src": "https://static.maizuo.com/b03a32d20eac5438d8d130714d4141b9.jpg?x-oss-process=image/quality,Q_70"
+        },
+        {
+            "id": 7,
+            "src": "https://static.maizuo.com/v5/upload/ec395ca4ed8e69b964ca3af2cd89a99d.jpg?x-oss-process=image/quality,Q_70"
+        },
+        {
+            "id": 8,
+            "src": "https://static.maizuo.com/v5/upload/95fc33cf5aece0ecb10e09d85d6e26ac.jpg?x-oss-process=image/quality,Q_70"
+        }
+    ]
+}
+
